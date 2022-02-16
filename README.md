@@ -32,3 +32,5 @@ def circulate():
 ![output](/nvar.png)
 
 ## Result:
+
+write a python program to circulate the n variables using function concept is successfully created
